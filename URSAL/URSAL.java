@@ -1,4 +1,4 @@
-package setor7;
+package URSAL;
 import robocode.*;
 import java.awt.Color;
 
@@ -8,7 +8,7 @@ import java.awt.Color;
  * @since 2014
  */ 
 
-public class MeganFox extends AdvancedRobot
+public class URSAL extends AdvancedRobot
 {
 	/**
 	 * Variável de valores ou 1 ou -1 
